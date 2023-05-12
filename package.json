@@ -1,0 +1,23 @@
+{
+  "name": "@jaycd598/paraphrase",
+  "version": "1.0.0",
+  "description": "A JavaScript library for paraphrasing text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncd598/paraphrase.git"
+  },
+  "keywords": [
+    "javascript",
+    "paraphrase"
+  ],
+  "author": "Jason C David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncd598/paraphrase/issues"
+  },
+  "homepage": "https://github.com/jasoncd598/paraphrase#readme"
+}
